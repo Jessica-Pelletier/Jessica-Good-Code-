@@ -11,7 +11,13 @@ https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf
 3. Testability
 4. Effecient code
 
-
+Final List
+1. Spacing and formatting
+2. Simple and maintanable
+3. Good comments
+4. Testability
+5. Made to handle errors
+6. Debugged
 
 
 
