@@ -1,5 +1,5 @@
 # Jessica-Good-Code-
-https://intenthq.com/corporate/careers/what-is-good-code-a-scientific-definition/
+[Good code practice from intenthq](https://intenthq.com/corporate/careers/what-is-good-code-a-scientific-definition/)
 1. Maintainable
 2. Not repetative
 3. Good comments
